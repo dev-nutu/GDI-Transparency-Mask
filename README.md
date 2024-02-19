@@ -57,4 +57,4 @@ ret
 > [!TIP]
 > If you have questions or if you need support for this function please visit AutoIt forum and post your questions [in this thread](https://www.autoitscript.com/forum/topic/211109-gdi-transparency-mask).
 
-[^1]: Credits for the images used in my example goes to [itch.io](https://itch.io/).
+[^1]: Credits for the images used in this example goes to [itch.io](https://itch.io/).
