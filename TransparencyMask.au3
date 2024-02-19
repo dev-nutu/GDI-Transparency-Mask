@@ -1,5 +1,7 @@
 #include-once
 
+; AutoIt Version : 3.3.16.1
+
 Func SetBitmapMask($hBitmap, $hMask)
     Local $aDim1 = _GDIPlus_ImageGetDimension($hBitmap)
     Local $aDim2 = _GDIPlus_ImageGetDimension($hMask)
